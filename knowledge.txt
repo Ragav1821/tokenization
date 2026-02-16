@@ -1,0 +1,8 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+Machine Learning is a subset of Artificial Intelligence that allows systems to learn from data.
+Retrieval Augmented Generation (RAG) is a system that retrieves relevant information before generating a response.
+MongoDB is a NoSQL database that stores data in JSON-like documents.
+Vector embeddings are numerical representations of text used for similarity search.
+Cosine similarity measures how similar two vectors are.
+Chunking is the process of splitting large text into smaller pieces for embedding.
+Sentence Transformers generate dense vector embeddings for text.
